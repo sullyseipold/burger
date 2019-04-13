@@ -1,4 +1,4 @@
-#Eat Da Burger!
+# Eat Da Burger!
 
 This application is a burger logger with MySQL, Node, Express, Handlebars and Sequelize, and follows the MVC design pattern.
 
